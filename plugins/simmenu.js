@@ -97,8 +97,8 @@ const fkgif = {
                 },
 	 message: { 
 		"extendedTextMessage": {
-                 "text":`Chii-Botz © 2022 🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ`,
-                 "title": `Chii-Botz © 2022 🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ`,
+                 "text":`Gilzz-Botz © 2022 🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ`,
+                 "title": `Gilzz-Botz © 2022 🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ`,
                  'jpegThumbnail': await conn.resize(await (await fetch('https://telegra.ph/file/8c27118e1b45667879ffc.jpg')).buffer(), 300, 250)
                         }
 	                  } 
@@ -108,9 +108,9 @@ const fkgif = {
 
 ┏━━━ꕥ〔 *BOT INFO* 〕ꕥ━⬣
 ┃✾ *Bot Name:* ${namabot}
-┃✾ *Creator:* AkmallNz
+┃✾ *Creator:* Gilzz
 ┃✾ *Contact Owner Bot:*
-┃http://wa.me/628988986891
+┃http://wa.me/6285730794089
 ┃✾ *Tanggal:* ${date}
 ┃✾ *Jam:* ${time} WIB
 ┃✾ *Status:* 「 ${mode} 」
@@ -151,15 +151,15 @@ let ftt = `*Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan sil
                               {
                                 "rows": [{
                                          "title": "📊 › Status ",
-                                         "description": "Status 誰 Chii - Botz MD",
+                                         "description": "Status 誰 Gilzz - Botz MD",
                                          "rowId": ".botstat"
                                     }, {
                                          "title": "⚡› Speed ",
-                                         "description": "Menampilkan Kecepatan Respon 誰 Chii - Botz MD",
+                                         "description": "Menampilkan Kecepatan Respon 誰 Gilzz - Botz MD",
                                          "rowId": ".ping"
                                     }, {
                                          "title": "🗒️› Info ",
-                                         "description": "Menampilkan Info 誰 Chii - Botz MD",
+                                         "description": "Menampilkan Info 誰 Gilzz - Botz MD",
                                          "rowId": ".info"
                                     }, {
                                          "title": "🎐 › Developer Bot ",
@@ -313,7 +313,7 @@ let ftt = `*Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan sil
                                 }, {
                                 "rows": [{                                	
                                 "title": "📝 ∫  Catatan Perubahan ",
-                                "description": "Last Update Terakhir Di YukiBot-MD",
+                                "description": "Last Update Terakhir Di GilzzBot-MD",
                                 "rowId": ".notes"                  
                 }],                
                                 "title": "▮Last Update 」"
@@ -350,7 +350,7 @@ let ftt = `*Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan sil
                                 "rowId": ".premium"
                                 }, {
                                 "title": "🔬  ∫  Source Code ",
-                                "description": "Menampilkan Source Code Bot",
+                                "description": "Menampilkan Source Gilzz Bot",
                                 "rowId": ".sc"
                                 }, {
                                 "title": "💭 ∫  Pertanyaan Tentang Bot Ini ",
