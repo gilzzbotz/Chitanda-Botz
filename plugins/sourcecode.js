@@ -13,9 +13,9 @@ await conn.sendButtonLoc(m.chat, await conn.resize(await (await fetch(flu + `${c
  
 ┏━━━ꕥ〔 *SCRIPT BOT* 〕ꕥ━⬣
 ┃✾ 📮*Script :* 
-┃✾ ╰ https://youtu.be/lDSHQvws9N0
+┃✾ ╰ wa.me/6285730794089
 ┃✾ 📮*Tiktok :*  
-┃✾ ╰ https://www.tiktok.com/@raraharsita2/video/7144195854117637402
+┃✾ ╰ https://www.tiktok.com/@cahkonoaea
 ┗━━━━━━ꕥ
 `,`📍 *N o t e :* 
 • Jangan lupa minta izin owner sebelum menggunakan scriptnya kak!
