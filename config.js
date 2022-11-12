@@ -4,8 +4,8 @@ global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some h
 global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
-['628988986891', 'KingOfBear', true], 
-['6289504766053', 'Just Bot', true] 
+['6285730794089', 'GilzzExe', true], 
+['6281357580873', 'Just Bot', true] 
 ]
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -35,15 +35,15 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-global.linkyt = 'https://youtube.com/channel/UCTan41uoODwP2uU0ORuoy3w'
-global.WM = 'Chii-Botz ©2022'
-global.linkgc = 'https://chat.whatsapp.com/BAVS6dAFfYCDp6m7dELp5s'
-global.linkig = 'https://www.instagram.com/xzennz_'
-global.deslink = 'Hai kak, Aku adalah Chii-Botz yang siap bantu memudahkan apapun untuk anda setiap saat dimanapun kapanpun anda berada, ketik #menu untuk melihat list bot menu yang ada, Terimakasih'
-global.logo = 'https://telegra.ph/file/4f180d739e3f3a4b1eef6.jpg'
+global.linkyt = 'https://youtube.com/channel/UCPH9AdS6UQImcRv6IFtQ5lg'
+global.WM = 'Gilzz-Botz ©2022'
+global.linkgc = 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy'
+global.linkig = 'https://www.instagram.com/rdtyzagilz'
+global.deslink = 'Hai kak, Aku adalah Gil-Botz yang siap bantu memudahkan apapun untuk anda setiap saat dimanapun kapanpun anda berada, ketik #menu untuk melihat list bot menu yang ada, Terimakasih'
+global.logo = 'https://telegra.ph/file/a4c895aa49a0068218a54.jpg'
 global.titlink = 'Follow Me On Tiktok'
 global.bearkey = 'KingOfBear'
-global.bodlink = '@nekopoi.care'
+global.bodlink = '@cahkonoaea'
 
 global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*_'
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
@@ -54,7 +54,7 @@ global.urlnya = global.linkgc
 
 //============= callButtons ============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '+62 898-8986-891'
+global.phn = '+62 957-3079-4089'
 
 //========== Tampilan Bot =============//
 global.sa = '╭─'
