@@ -284,7 +284,7 @@ ${'```%npmdesc```'}
     itemCount : 2022,
     status: 1,
     surface : 1,
-    message: `Chii-Botz © 2022`, 
+    message: `Gilzz-Botz © 2022`, 
     orderTitle: `▮Menu ▸`,
     thumbnail: await (await fetch('https://telegra.ph/file/db5b4aed0d6d2e6c10c8f.jpg')).buffer(), //Gambarnye
     sellerJid: '0@s.whatsapp.net' 
@@ -302,7 +302,7 @@ ${'```%npmdesc```'}
          setTimeout(resolve, 1000) 
        }) * 1000 
      } 
-     let emot = conn.pickRandom(['❤️', '🌹', '🇮🇩'])
+     let emot = conn.pickRandom(['🗿', '🔴', '🟢'])
      let muptime = clockString(_muptime) 
      let uptime = clockString(_uptime) 
      global.jam = time 
@@ -338,7 +338,7 @@ ${'```%npmdesc```'}
 ┃✾ Uptime: *${uptime} (${muptime})*
 ┃✾ Database: ${rtotalreg} dari ${totalreg}
 ┃✾ Tiktok:
-┃✾ tiktok.com/@_xzennz
+┃✾ tiktok.com/@cahkonoaea
 ┗━━━━━━ꕥ
 ━━━ꕥ〔 _*Quotes Harian*_ 〕ꕥ━⬣
 “${pickRandom(global.quotes)}”`.trim()
