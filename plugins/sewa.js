@@ -31,16 +31,16 @@ let fetch = require('node-fetch')
                      "description": "Harap membaca Peraturan demi kenyamanan kita bersama", 
                      "rowId": `${usedPrefix}rules` 
                    }, { 
-                     "title": "Group Official Cute Bot", 
+                     "title": "Group Official Gilzz Bot", 
                      "description": "Gabung untuk mendapatkan informasi mengenai bot atau sekedar meramaikan", 
                      "rowId": `${usedPrefix}gcbot` 
                    }], 
                    "title": "Informasi Bot" 
                  }, { 
                    "rows": [{ 
-                     "title": `Free Trial 1 Hari`, 
-                     "description": "Masukkan bot secara gratis selama 1 Hari", 
-                     "rowId": `${usedPrefix}join` 
+                     "title": `Script`, 
+                     "description": "Script Gilzz Botz", 
+                     "rowId": `${usedPrefix}sc` 
                      }], 
                    "title": "────────「 Trial 」" 
                  }, { 
@@ -57,7 +57,7 @@ let fetch = require('node-fetch')
 Untuk fitur bot bisa baca menu sampai selesai ya kak, dicoba coba dulu biar tau ( Ketik *.menu* )
 Silahkan hubungi owner ( Ketik *.owner* ) jika ingin menyewa bot untuk grup chat kalian
 
-➠ Sewa (Join Grup) harga 30K / Permanent dan apabila bot di kick dari grup sengaja atau tidak sengaja tidak bisa di join kan lagi (Hangus).
+➠ Sewa (Join Grup) harga 5K / Permanent dan apabila bot di kick dari grup sengaja atau tidak sengaja tidak bisa di join kan lagi (Hangus).
 ➠ Pembayaran saat ini hanya tersedia via Qris.
 ➠ Proses transaksi seperti pada umumnya, chat owner terlebih dahulu untuk menanyakan nomor tujuan transfer setelah itu screenshot bukti pembayaran.
 ➠ *Penting!* simpan nomor owner dan join ke dalam grup official dibawah untuk mengetahui update nomor bot terbaru apabila ter-banned.
